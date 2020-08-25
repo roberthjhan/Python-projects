@@ -1,2 +1,2 @@
 # Python-projects
-Classwork and other projects completed in python
+Small projects completed in python
